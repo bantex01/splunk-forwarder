@@ -1,9 +1,5 @@
 # signalfx-forwarder
-A custom search command to metricize Splunk logs and send to SignalFx
-
-AND
-
-this fork of the repo contains a eventstosfx command that send events from splunk searches.
+A custom search command to metricize Splunk logs and send to SignalFx and this fork of the repo contains a eventstosfx command that send events from splunk searches.
 
 
 See [./signalfx-forwarder-app/README.md](./signalfx-forwarder-app/README.md) for usage information.
